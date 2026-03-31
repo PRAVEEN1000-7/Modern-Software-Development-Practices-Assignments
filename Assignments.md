@@ -1,46 +1,20 @@
 # Assignment Submissions
 
 # 1 Certification Requirement
-> - AI Fluency for Students
->
-> Kindly submit the verification link here 
-> - Introduction to Agent Skills
->
-> Kindly submit the verification link here
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
+> - [AI Fluency for students](http://verify.skilljar.com/c/kkcv7qqd8est)
+> - [Introduction to agent skills](http://verify.skilljar.com/c/u5thaufap9kj)
+> - [Certificate Drive link](https://drive.google.com/drive/folders/16nVPxALXpHHcU_TE3vZcmsH6NXyJa1jF?usp=sharing)
 # 2 Individual Project: Personal Portfolio
 > Personal Portfolio Project
->
-> - Kindly submit the GitHub Repo URL
->
-> - Kindly submit the Vercel Deployment URL
->
-> - Kindly submit the GitHub Pages (Documentation) URL
-
+> - [GitHub Repo](https://github.com/RenPrav/artful-portfolio-design)
+> - [Deployment URL](https://www.codewithpraveen.dev/)
+> - [GitHub Pages](https://renprav.github.io/artful-portfolio-design/)
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
->
-> - Kindly submit the GitHub Repo URL
->
-> - Kindly submit the Live Application URL (Domain)
->
-> - Kindly submit the GitHub Pages (Documentation) URL
-
+> - [GitHub Repo](https://github.com/RenPrav/BugBuddy)
+> - [Deployment URL](https://bugbuddy.codewithpraveen.dev/)
+> - [GitHub Pages](https://renprav.github.io/BugBuddy/)
 # 4 Linkedin Post
-> Submit the LinkedIn post URL
-> 
-> [LinkedIn post URL]
-
-## For Second Year Buddies
-
-# 5 Certification Requirement
-> - Introduction to Model Context Protocol
->
-> Kindly submit the verification link here 
-> 
-> Kindly upload the certifications PDF in Google Drive Link
-
-# 6 GitHub Profile README
-> Kindly submit your GitHub Profile README URL
+> [LinkedIn post URL](https://www.linkedin.com/posts/praveen-s57_softwaredevelopment-aidevelopment-fullstack-ugcPost-7444597662869491712-Hlys?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEboFWIBVBqD4zZ3AIvs3k9TYJntPKCq7mM)
+# 5 GitHub Profile README
+> [GitHub Profile README URL](https://github.com/PRAVEEN1000-7/PRAVEEN1000-7)
